@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d05144c-f605-4470-9d2d-2c98c7810e26" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2E4DZvq0UxvBZ3W5OruiWuwpq3O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="snakeOpenCv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\GAMING\Desktop\New folder\TFODCourse\tfod\Scripts\python10.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="snakeOpenCv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\GAMING\Desktop\New folder\TFODCourse\tfod\Scripts\python10.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="snakeOpenCv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\GAMING\Desktop\New folder\TFODCourse\tfod\Scripts\python10.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d05144c-f605-4470-9d2d-2c98c7810e26" name="Default Changelist" comment="" />
+      <created>1661846021915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661846021915</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="15" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1661846046115">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="96" y="15" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1661846046115" />
+    <state x="373" y="0" key="#game" timestamp="1661846071279">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="373" y="0" key="#game/0.0.1280.720@0.0.1280.720" timestamp="1661846071279" />
+    <state x="373" y="0" key="#main" timestamp="1661846117080">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="373" y="0" key="#main/0.0.1280.720@0.0.1280.720" timestamp="1661846117080" />
+    <state width="1280" height="184" key="GridCell.Tab.0.bottom" timestamp="1661846567960">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1280" height="184" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1661846567960" />
+    <state width="1280" height="184" key="GridCell.Tab.0.center" timestamp="1661846567960">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1280" height="184" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1661846567960" />
+    <state width="1280" height="184" key="GridCell.Tab.0.left" timestamp="1661846567959">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1280" height="184" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1661846567959" />
+    <state width="1280" height="184" key="GridCell.Tab.0.right" timestamp="1661846567960">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1280" height="184" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1661846567960" />
+    <state x="142" y="3" key="SettingsEditor" timestamp="1661846109699">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1661846109699" />
+  </component>
+</project>
